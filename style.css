@@ -1,0 +1,10 @@
+.navbar{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+
+	border-style: solid;
+	border-color: orange;
+	background-color: orange;
+
+}
